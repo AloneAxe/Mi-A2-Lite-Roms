@@ -17,7 +17,6 @@
 | [Bootleggers](https://forum.xda-developers.com/mi-a2-lite/development/bootleggers-rom-mi-a2-liteunofficial-t4122801) |      10.0       | [Hotorou](https://forum.xda-developers.com/member.php?u=10763893) | Updated  | [SourceceForge](https://sourceforge.net/projects/zunayed-builds/files/Bootleg/daisy/) |     ✅     |    ❌     |  ❌   |
 | [ArrowOS](https://forum.xda-developers.com/mi-a2-lite/development/rom-arrowos-v10-0-xiaomi-mi-a2-lite-t4072841) |      10.0       | [ganomin](https://forum.xda-developers.com/member.php?u=9850043) | Updated  | [Google Drive](https://drive.google.com/drive/folders/1iYCf3K1pgHHPuF2FZLlg1caeptX8Jbtb) |     ✅     |    ❌     |  ❌   |
 | [Arrow OS](https://forum.xda-developers.com/mi-a2-lite/development/rom-arrowos-v10-0-xiaomi-mi-a2-lite-t4072841) |      10.0       |                           ganomin                            | Updated  |  [Mega](https://mega.nz/#F!ud8BTSza!8EihQfOZp5N23-JM7OO2hg)  |     ✅     |    ❌     |  ❌   |
-|                         Evolution X                          |      10.0       |                [Helly_x](https:t.me/Helly_x)                 | Updated  | [Rom](https://sourceforge.net/projects/evodaisy/files/daisy/) |     ✅     |    ❌     |  ❌   |
 |                      AOSiP-10   Quiche                       |      10.0       |                [Helly_x](https:t.me/Helly_x)                 | Outdated | [SourceForge](https://sourceforge.net/projects/aosipdaisy/files/daisy/AOSiP-10-Quiche-daisy-20200802.zip/downloadhttps://sourceforge.net/projects/aosipdaisy/files/daisy/AOSiP-10-Quiche-daisy-20200802.zip/download) |     ✅     |    ❌     |  ❌   |
 |                            AOSIP                             |      10.0       |                            opal06                            | Outdated | [SourceForge](https://sourceforge.net/projects/aosip-daisy-ota/files/builds/) |     ❌     |    ❌     |  ❌   |
 | [CAOS](https://github.com/C-A-O-S/treble_manifest_caos/wiki/CAOS-Project) |      10.0       |                         eternityson                          | Outdated | [Github](https://github.com/C-A-O-S/treble_manifest_caos/wiki/CAOS-Project) |     ❌     |    ❌     |  ❌   |
@@ -52,7 +51,7 @@
 | [Evolution X](https://forum.xda-developers.com/mi-a2-lite/development/rom-evolution-x-2-0-t3942647)                            | [Zidan44](https://forum.xda-developers.com/member.php?u=9782219)     | Outdated | [SourceForge](https://sourceforge.net/projects/evolution-x/files/daisy/)                                                                                    | ❌         |
 | [CypherOS](https://forum.xda-developers.com/mi-a2-lite/development/rom-cypheros-7-0-0-poundcake-unofficial-t3947303)           | [Vitor00](https://forum.xda-developers.com/member.php?u=7824261)     | Outdated | [Google Drive](https://drive.google.com/open?id=1ZtJPDbI1ZlB21iMdcGtMVXVFa5WrJ9-0)                                                                          | ❌         |
 
-**📱MemeUI Ports** (Join Mi A2 lite MIUI [Group](https://t.me/miuidaisy) / [Channel](https://t.me/miuidaisyports))
+**📱MIUI Ports** (Join Mi A2 lite MIUI [Group](https://t.me/miuidaisy) / [Channel](https://t.me/miuidaisyports))
 
 | Rom Name                                                   | Android Version | Maintainer                              | Download Link                                                                                       |
 |:----------------------------------------------------------:|:---------------:|:---------------------------------------:|:---------------------------------------------------------------------------------------------------:|
@@ -118,3 +117,5 @@
 | Mi Flash tool       | 7.4.25     | [Github](https://github.com/TheDoop/daisy-stuff/raw/master/tools/MiFlashSetup_eng.msi)   |
 | QPTS                | 2.7.480    | [Github](https://github.com/TheDoop/daisy-stuff/raw/master/tools/QPST.zip)               |
 | QFIL                | 2.0.2.3    | [Gtihub](https://github.com/TheDoop/daisy-stuff/raw/master/tools/QFIL.zip)               |
+
+Credits: [TheDoop](https://github.com/TheDoop)
