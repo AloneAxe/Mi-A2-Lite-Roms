@@ -1,4 +1,4 @@
-/otaserver/releases)     |     ✅     |    ❌     |  ✅   |
+
 | [Colt Os](https://forum.xda-developers.com/mi-a2-lite/development/unofficial-colt-os-mi-a2-litedaisy-t4111499/post82806791#post82806791) |      10.0       | [Hotorou](https://forum.xda-developers.com/member.php?u=10763893) | Updated  | [Google Drive](https://drive.google.com/drive/mobile/folders/18XiIRtaQuveOniFKYf4eMvIGjbTBfqLH?usp=sharing) |     ✅     |    ❌     |  ❌   |
 |                       Paranoid / AOSPA                       |      10.0       |              [マノエル](https://t.me/vmanoel00)              | Updated  | [Mega](https://mega.nz/file/oq50nIzC#uvY5yumT3g1O4apw_nnxH4Gc4l3-x4ioB7J-4QZB9NY) / [Telegram](https://t.me/newsmia2lite/370) |     ✅     |    ❌     |  ❌   |
 | [Bootleggers](https://forum.xda-developers.com/mi-a2-lite/development/bootleggers-rom-mi-a2-liteunofficial-t4122801) |      10.0       | [Hotorou](https://forum.xda-developers.com/member.php?u=10763893) | Updated  | [SourceceForge](https://sourceforge.net/projects/zunayed-builds/files/Bootleg/daisy/) |     ✅     |    ❌     |  ❌   |
