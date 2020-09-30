@@ -55,9 +55,9 @@
 
 | Rom Name                                                   | Android Version | Maintainer                              | Download Link                                                                                       |
 |:----------------------------------------------------------:|:---------------:|:---------------------------------------:|:---------------------------------------------------------------------------------------------------:|
-| [MIUI 12 EU(20.7.30)](https://t.me/miturkiyetoplulugu)     | 10.0            | [Avengerhood](https://t.me/Avengerhood) | [Google Drive](https://drive.google.com/file/d/1-1uuI6Spc-rekC834Uzz5JMRKNNM33n4/view?usp=sharing)  |
-| [MIUI Xiaomi EU 12.0.1](https://t.me/miturkiyetoplulugu)   | 9.0             | [Avengerhood](https://t.me/Avengerhood) | [Google Drive](https://drive.google.com/file/d/1-2vZp-oBdS1yiQwbJZFUsAAxLTw-J3AI/view?usp=drivesdk) |
-| [Masik 15.2](https://t.me/miturkiyetoplulugu)              | 10.0            | [Avengerhood](https://t.me/Avengerhood) | [Google drive](https://drive.google.com/file/d/1-H_JqAlwXWf2BShJgxVmb8sK80oewy0C/view?usp=sharing)  |
+| [MIUI 12 EU(20.9.24)](https://t.me/miturkiyetoplulugu)     | 10.0            | [Avengerhood](https://t.me/Avengerhood) | [Google Drive](https://drive.google.com/file/d/1-JXBkTw-Xj2elXoXHT2WvBVWvYGX-3jN/view?usp=drivesdk)  |
+| [MIUI Xiaomi EU 12.0.1](https://t.me/miturkiyetoplulugu)   | 9.0             | [Bogdan Kyslenko](https://t.me/ScaryMen1325) | [Google Drive](https://drive.google.com/file/d/19-pZBIdmNFcPoc8AJ_aKtpojQseX4IzC/view?usp=sharing) |
+| [MIUI PLus 20.9.24](https://t.me/miturkiyetoplulugu)       | 10.0            | [MIUIPlusTeam](https://t.me/miuiplusteam) | [Additive]  |
 | [HybridOS](https://t.me/miuidaisy)                         | 9.0             | -                                       | [Google Drive](https://drive.google.com/file/d/16fWuD78AvNY6ugHMBVs0iMcUodKZI2bx/view)              |
 | [Miui 11 V.11.0.4](https://t.me/miuidaisy)                 | 9.0             | -                                       | [Goolge Drive](https://drive.google.com/file/d/1M-eDCqCL2ypKLLa8uWAPOxzInWln5xAA/view)              |
 | [Miui EU V11.0.5.0](https://t.me/miuidaisy)                | 9.0             | -                                       | [Goolge Drive](https://drive.google.com/file/d/1-2htTk67oHQ9OuaKOxDWUJsiZDvs69sF/view)              |
